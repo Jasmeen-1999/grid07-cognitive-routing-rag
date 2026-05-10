@@ -1,4 +1,4 @@
-# Grid07 Cognitive Routing & RAG Assignment
+#  Cognitive Routing & RAG Assignment
 
 AI Engineering assignment submission for Grid07 Development.
 
